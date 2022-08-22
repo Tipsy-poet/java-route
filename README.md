@@ -7,15 +7,6 @@
 
 #### 1.1.1 Java语言的特点
 
-1. 简单易学
-2. 面向对象
-3. 平台无关性
-4. 可靠性
-5. 安全性
-6. 支持多线程
-7. 支持网络编程
-8. 编译与解释并存
-
 #### 1.1.2 JDK与JRE
 
 #### 1.1.3 Java语法
@@ -62,11 +53,13 @@
 
 ### 3.5 分布式
 
-#### 3.5.1 Spring Cloud 
+#### 3.5.1 Spring Cloud NetFlix
 
 #### 3.5.2 Spring Cloud Alibaba
 
-#### 3.5.3 Nacos
+#### 3.5.3 Spring Cloud Tencent
+
+#### 3.5.3 Dubbo + Zookeeper
 
 ### 3.6 集群
 
